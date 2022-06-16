@@ -1,1 +1,4 @@
-I am king
+<<<<<<< HEAD
+Oh my
+=======
+echo "This is the last time"
